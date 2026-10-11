@@ -2,7 +2,7 @@
 
 I got into programming through games: Super Mario 64 DS first, then mods and maps for Counter-Strike and Garry's Mod, and eventually games of my own.
 
-That curiosity led me to **EPITA**, where I'm finishing a 5-year computer science engineering degree. To pay my tuition, I freelanced along the way: websites, custom games, business software and video pipeline standardization. Freelancing taught me to be the PM and the dev at once, which is where my eye for clean, functional UX comes from.
+That curiosity led me to **EPITA**, where I'm finishing a 5-year computer science engineering degree. To pay my tuition, I freelanced along the way: websites, custom games, business software and video pipeline standardization. Freelancing taught me to be the PM and the dev at once, which is where my eye for clean, functional UX comes from. Aside from freelancing I've been employed as a Computer Science teacher for junior and sophomores (a really fun experience) and been working in the flagship UNIQLO store of Opera (and talking with general directors and Japanese thought me a lot about how to do business at this scale).
 
 For my final-year major I chose **Global IT Management**: agile delivery, user stories, vendor management, data security and working across cultures.
 
