@@ -1,30 +1,47 @@
 # Hi, I'm Fayçal 👋
 
-![Open to work](https://img.shields.io/badge/Open_to_work-Feb_2027_·_6_months-2ea44f?style=flat-square)
-![Seoul](https://img.shields.io/badge/Based_in-Seoul-555555?style=flat-square)
-![French](https://img.shields.io/badge/French-native-0055A4?style=flat-square)
-![English](https://img.shields.io/badge/English-C1-012169?style=flat-square)
+Software engineer finishing a computer science engineering degree at **EPITA** (Master's level, June 2027).
+I like building things people actually use, and understanding how they work all the way down.
 
+![Open to work](https://img.shields.io/badge/Open_to_work-Feb_2027_·_6_months-2ea44f?style=flat-square)
 [![Portfolio](https://img.shields.io/badge/Portfolio-faycal--beghalia.dev-000000?style=flat-square)](https://faycal-beghalia.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-faycal--beghalia-0A66C2?style=flat-square)](https://www.linkedin.com/in/faycal-beghalia)
 [![Email](https://img.shields.io/badge/Email-contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:faycalbeghalia@outlook.fr)
 
-I got into programming through games: Super Mario 64 DS first, then mods and maps for Counter-Strike and Garry's Mod, and eventually games of my own.
+### 🛠️ What I've shipped
 
-That curiosity led me to **EPITA**, where I'm finishing a 5-year computer science engineering degree. To pay my tuition, I freelanced along the way: websites, custom games, business software and video pipeline standardization. Freelancing taught me to be the PM and the dev at once, which is where my eye for clean, functional UX comes from. Aside from freelancing I've been employed as a Computer Science teacher for junior and sophomores (a really fun experience) and been working in the flagship UNIQLO store of Opera (and talking with general directors and Japanese thought me a lot about how to do business at this scale).
+**Software Engineer Intern @ Polycea** · 7 months
+Nora, Indigo's teleoperation platform: **1,200+ operators** use it daily to run **600+ car parks** across Europe.
 
-For my final-year major I chose **Global IT Management**: agile delivery, user stories, vendor management, data security and working across cultures.
+- Standardized toll APIs across equipment vendors, with simulators built from their docs so the team could develop without hardware
+- Cut GitLab CI/CD pipeline time by **40%**, then led the migration to bun: **2x** faster installs, **30%** smaller bundle
+- Set up k6 load testing on 5 endpoints and wrote the internal guide other teams adopted
 
-### 🛠️ Recent work
-**Software Engineer Intern @ Polycea** (7 months): a remote-operations platform serving 600+ car parks across Europe, built as one large monorepo spanning embedded, backend, frontend, CI/CD and deployment.
-- Proposed and led the migration to a new package manager (2x faster installs, 30% smaller bundles)
-- Cut CI/CD pipeline time by 40%
-- Set up endpoint load testing with k6 and wrote the internal guide other teams used to adopt it
+`TypeScript` `NestJS` `React` `PostgreSQL` `Docker` `GitLab CI`
 
-### 🎯 What's next
-I'm looking for a **6-month Software Engineer or Technical Product Manager internship from February 2027**, ideally in **Tokyo**, where I'd love to grow in a new culture and a fast-moving tech scene.
+### 🔬 Projects
 
-📫 [faycal-beghalia.dev](https://faycal-beghalia.dev) · [LinkedIn](https://www.linkedin.com/in/faycal-beghalia)
+Most of my work lives in private repos: client code from freelancing, EPITA projects I can’t publish under school policy, and team projects that aren’t mine alone to share. Here’s what I can show:
+
+| Project | What it does | Stack |
+|---|---|---|
+| [Minigame](https://minigame.faycal-beghalia.dev) | Real-time multiplayer party games: ephemeral rooms shared by code, no account | React · Cloudflare Durable Objects |
+| [Copper](https://github.com/FaysouRGB/rust-database-system) | Relational database engine from scratch: storage, query execution, indexing | Rust |
+| [Memory allocator](https://github.com/FaysouRGB/c-memory-allocator) | Drop-in `malloc`/`free` replacement with block-corruption detection | C |
+| [Sudoku OCR](https://github.com/FaysouRGB/c-sudoku-ocr) | OCR with a hand-written neural network, 98% accuracy | C |
+| [RayGore](https://github.com/FaysouRGB/cpp-raycasting-engine) | Raycasting engine | C++ · SDL |
+| [Mandelbrot explorer](https://github.com/FaysouRGB/cuda-mandelbrot-explorer) | GPU fractal renderer | CUDA · C++ |
+
+Smaller ones: [Huffman coding](https://github.com/FaysouRGB/java-huffman-coding) (Java) · [JSON parser](https://github.com/FaysouRGB/go-json-parser) (Go) · [i18n CLI](https://github.com/FaysouRGB/i18n-cli) (Rust) · [wc clone](https://github.com/FaysouRGB/c-wc) (C)
+
+### 🌱 Background
+
+I got into programming through games: Counter-Strike and Garry's Mod mods and maps, then games of my own.
+Freelance work (business software, websites, a multiplayer Unity game) paid my tuition, and I taught programming to 200 first-year students at SupBiotech.
+
+### 🎯 Next
+
+Looking for a **6-month software engineering internship from February 2027**, ideally in Tokyo. On exchange in Seoul until December.
 
 ### 🧰 Tech
 
@@ -33,9 +50,9 @@ I'm looking for a **6-month Software Engineer or Technical Product Manager inter
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
 **Frameworks & Data**
@@ -57,7 +74,3 @@ I'm looking for a **6-month Software Engineer or Technical Product Manager inter
 ![k6](https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-**Product**
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
